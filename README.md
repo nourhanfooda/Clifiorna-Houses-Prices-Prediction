@@ -1,1 +1,1 @@
-# California-Houses-Prices-Prediction-using-ML
+# California-Houses-Price-Prediction-using-ML
