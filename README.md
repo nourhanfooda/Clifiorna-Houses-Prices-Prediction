@@ -1,1 +1,1 @@
-# Clifiornia-Houses-Prices-Prediction-using-ML
+# California-Houses-Prices-Prediction-using-ML
